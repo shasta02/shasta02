@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a freshman at Boston University with a strong passion for software development and entrepreneurship. Seen as entrepreneurial, self-motivated, along with leadership experience. Known for innovative ideas, professionalism, and the ability to create and grow ideas. Always looking to meet new people with whom to network and collaborate!
+I am a sophomre at Boston University with a strong passion for software development and entrepreneurship. Seen as entrepreneurial, self-motivated, along with leadership experience. Known for innovative ideas, professionalism, and the ability to create and grow ideas. Always looking to meet new people with whom to network and collaborate!
 <!--
 **shasta02/shasta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
