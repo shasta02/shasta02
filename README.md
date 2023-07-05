@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Profile Stats ##
+<!--## Profile Stats ##
 <img src="https://github-readme-stats.vercel.app/api?username=shasta02&show_icons=true&show_icons=true&theme=aura_dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasta02&layout=compact&theme=aura_dark" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasta02&layout=compact&theme=aura_dark" height="150"></img> -->
